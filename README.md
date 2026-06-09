@@ -1,4 +1,4 @@
-# Ciao, sono [Il Tuo Nome]! 👋
+# Ciao, sono Luca Simeoni! 👋
 ### Dalla Cucina al Codice: Trasformare Ingredienti (e Bug) in Soluzioni Straordinarie.
 
 ---
