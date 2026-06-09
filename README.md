@@ -53,6 +53,5 @@ L'11 Giugno 2026 ho concluso l'intenso percorso **Hackademy+ di Aulab**, un boot
 ## 📬 Troviamoci!
 Se stai cercando un developer che non si spaventa davanti alle scadenze, sa lavorare in team e, all'occorrenza, sa anche consigliare il menu perfetto per la cena aziendale... parliamone!
 
-*   💼 LinkedIn: [Il tuo link qui]
-*   📧 Email: [La tua email qui]
-*   🌐 Portfolio: [Il tuo sito/portfolio qui]
+*   📧 Email: lucasimeoni9@gmail.com
+
